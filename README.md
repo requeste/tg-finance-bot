@@ -18,7 +18,7 @@
 
 ### 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/requeste/tg-finance-bot.git](https://github.com/твой_юзернейм/tg-finance-bot.git)
+git clone [https://github.com/requeste/tg-finance-bot.git](https://github.com/requeste/tg-finance-bot.git)
 cd tg-finance-bot
 ```
 ### 2. Настройте виртуальное окружение:
@@ -63,7 +63,7 @@ An asynchronous Telegram bot for convenient tracking and analysis of personal ex
 
 ### 1. Clone the repository:
 ```bash
-git clone [https://github.com/requeste/tg-finance-bot.git](https://github.com/твой_юзернейм/tg-finance-bot.git)
+git clone [https://github.com/requeste/tg-finance-bot.git](https://github.com/requeste/tg-finance-bot.git)
 cd tg-finance-bot
 ```
 ### 2. Set up a virtual environment:
